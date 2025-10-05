@@ -1,5 +1,5 @@
 #include <functional>
-#include <string>
+#include <string.h>
 #include <assert.h>
 
 #include "TcpServer.h"
